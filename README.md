@@ -9,7 +9,12 @@ This clone is built by using `Reactjs`, `React Context API (Redux)`, `Stripe`, `
 - Google firebase is used to store the data into it's database and primarily manage the back-end of the clone.
 
 ## DEMO
-![Project Demo](https://github.com/shadmankhan/amazon-project/blob/master/Amazon-Clone-Demo.webm)
+![Project Demo](https://github.com/shadmankhan/amazon-project/blob/master/Clone-Capture.gif)
+
+[Demo Clip Link. Pl Check!](https://github.com/shadmankhan/amazon-project/blob/master/Amazon-Clone-Demo.webm)
+
+
+
 
 
 Here are the Stripe statistics:

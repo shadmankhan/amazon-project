@@ -1,5 +1,21 @@
 ## Project - Amazon Clone with all the necessary functioning.
 
+This clone is built by using `Reactjs`, `React Context API (Redux)`, `Stripe`, `Google firebase`, `Axios`, `HTML5`, `CSS3`.
+
+- Reactjs, HTML5 and CSS3 are used create front-end of the clone.
+- React Context API / Redux is used to manage local states of the clone.
+- Axios used in for API fetching and it's methods. eg: 'get', 'post' etc.
+- Stripe is used for the payment handling. It let us accepts the payment, show us payment status, transfer money into bank and performs several other functions related with payment.
+- Google firebase is used to store the data into it's database and primarily manage the back-end of the clone.
+
+## DEMO
+![Project Demo](https://github.com/shadmankhan/amazon-project/blob/master/Amazon-Clone-Demo.webm)
+
+
+Here are the Stripe statistics:
+![Stripe Stats](https://github.com/shadmankhan/amazon-project/blob/master/Stripe%20Payment%20Receive%20Stat.png)
+
+
 **belongs to [Shadman A Khan](https://github.com/shadmankhan/)**
 
 

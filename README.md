@@ -1,3 +1,14 @@
+## Project - Amazon Clone with all the necessary functioning.
+
+**belongs to [Shadman A Khan](https://github.com/shadmankhan/)**
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

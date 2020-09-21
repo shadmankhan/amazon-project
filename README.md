@@ -11,7 +11,7 @@ This clone is built by using `Reactjs`, `React Context API (Redux)`, `Stripe`, `
 ## DEMO
 ![Project Demo](https://github.com/shadmankhan/amazon-project/blob/master/Clone-Capture.gif)
 
-[Demo Clip Link. Pl Check!](https://www.youtube.com/watch?v=E-kk7zaVEFc)
+## [Demo Clip Link. Pl Check!](https://www.youtube.com/watch?v=E-kk7zaVEFc)
 
 
 
